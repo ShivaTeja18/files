@@ -1,7 +1,7 @@
 package swaggerFiles
 
 import (
-	"golang.org/x/net/webdav"
+	"github.com/ShivaTeja18/files/webdav"
 )
 
 func NewHandler() *webdav.Handler {
